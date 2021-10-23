@@ -1,2 +1,2 @@
-# github_actions
-Example repository for configuring Django with GitHub actions
+# github_actions #CI
+Repository for Continuous Integration of Django Application  with GitHub actions
