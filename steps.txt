@@ -1,0 +1,6 @@
+First clone the repo 
+Move to git hub actions 
+select the location and name of the configuration yml file
+y0u can write manually or select django application
+save and commit 
+you can see your build and test in git hub actions
